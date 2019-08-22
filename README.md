@@ -1,6 +1,6 @@
 # Drowsiness-Detection
 
-# Introduction to the problem: state of the art:
+# Introduction to the problem: State of the art:
 The main idea behind this project is to develop a nonintrusive system which can
 detect fatigue of any human and can issue a timely warning. Drivers who do not take
 regular breaks when driving long distances run a high risk of becoming drowsy a
